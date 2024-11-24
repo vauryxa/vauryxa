@@ -1,4 +1,4 @@
--# Sup dude, what brings you here?
+# Sup dude, what brings you here?
 
 ## I'm Astrowave. nothing special about me ig. but I'm just a kid who's figuring things out :)
 
