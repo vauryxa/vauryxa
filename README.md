@@ -1,6 +1,6 @@
 # Sup dude, what brings you here?
 
-## I'm Astrowave. nothing special about me ig. but I'm just a kid who's figuring things out :)
+## I'm Astrowave. nothing special about me ig. Just a kid who's figuring things out :)
 
 - 📚 Currently through 7th grade.
 - 😶‍🌫️ 13 years old.
