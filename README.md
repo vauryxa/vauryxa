@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hiya! I'm Astrowave, but you can call me Astro! I'm a 13-year-old with a big love for programming and lots of other cool stuff. If you'd like to support me or just say hi, feel free to reach out on Discord! ✨</h2>
 
 ###
 
