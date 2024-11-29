@@ -1,38 +1,18 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
-###
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astrowave69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Astrowave69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1309194350630277201/1311926436772184064/Emo_Discord_PFP__Expressive_Profile_Pictures_-_Best_Wallpaper_HD.jpg?ex=674aa234&is=674950b4&hm=85cd0938c620042e2b37253a93758b2b7ad065a61ebe77f1055f43cf29de4a6c&"  />
+<a href=#><img src="contributions.svg"></a>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.gg/CnSJw6fC" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Add%20me%20on&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Astrowave69/Astrowave69/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
