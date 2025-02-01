@@ -1,6 +1,13 @@
+![Header](https://capsule-render.vercel.app/api?type=wave&height=150&color=0000FF&reversal=true)
+
+
 <h2 align="left">Heya! I'm Vauryxa!!</h2>
 
-###
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=80&duration=3000&pause=1000&color=365EF7&center=true&vCenter=true&repeat=false&width=435&lines=Vauryxa)](https://git.io/typing-svg)
+
+---
 
 <p align="left">Thanks for visiting my profile. I'm a 14 year old front-end web developer. I am mostly trying to learn things by myself and youtube tutorials and sometimes turn them into projects. <br><br><br>Currently into basic stuff like Python, WinUI and React. I'm looking forward to learn more.</p>
 
@@ -43,3 +50,11 @@
 <img src="https://raw.githubusercontent.com/vauryxa/vauryxa/8502e75de24898b404424df13eef0340a029fdf3/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312d4jvumd57ssmeycxorspnpjyy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=5182d2&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=312d4jvumd57ssmeycxorspnpjyy&redirect=true)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=wave&height=200&color=0000FF&reversal=false&section=footer)
