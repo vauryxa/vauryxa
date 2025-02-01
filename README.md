@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vauryxa/Astrowave69/8502e75de24898b404424df13eef0340a029fdf3/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vauryxa/vauryxa/8502e75de24898b404424df13eef0340a029fdf3/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
